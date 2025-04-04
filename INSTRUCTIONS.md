@@ -84,7 +84,7 @@ For the data, use the variables provided at the top of the file (`greeting`, `bi
 For the avatar you can use the next url: `https://i.pravatar.cc/150?img=7`
 All the components you need have been already imported for you.
 
-<img src="screenshots/image3.png" alt="drawing" width="1024"/>
+<img src="public/portfolio1.png" alt="drawing" width="1024"/>
 
 ### **Step 3**
 
@@ -93,7 +93,7 @@ The `ProjectsSection` component already defines a `projects` array with the data
 
 Open the `Card.js` component and implement the UI for the card. Each card should look like the image below:
 
-<img src="screenshots/image2.png" alt="drawing" width="1024"/>
+<img src="public/portfolio2.png" alt="drawing" width="1024"/>
 
 You can use the following components from Chakra UI that have been already imported for you:
 - HStack,
@@ -115,7 +115,7 @@ The form contains 4 input fields: name, email address, type of enquiry and messa
 
 The whole UI of the form is defined for you. You need to implement some missing business logic.
 
-<img src="screenshots/image4.png" alt="drawing" width="1024"/>
+<img src="public/portfolio3.png" alt="drawing" width="1024"/>
 
 a) **Add the proper configuration to the `useFormik` hook, passing an object with 3 properties**: `initialValues`, `onSubmit` and `validationSchema`. 
 
